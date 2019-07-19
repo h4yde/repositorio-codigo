@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sentencias SYSTEM  "dtd/completado.dtd">
+<sentencias>
+<sentencia label="break" />
+<sentencia label="case" />
+<sentencia label="catch" />
+<sentencia label="continue" />
+<sentencia label="default" />
+<sentencia label="delete" />
+<sentencia label="do" />
+<sentencia label="else" />
+<sentencia label="false" />
+<sentencia label="" />
+<sentencia label="for" />
+<sentencia label="function" />
+<sentencia label="if" />
+<sentencia label="in" />
+<sentencia label="instanceof" />
+<sentencia label="new" />
+<sentencia label="null" />
+<sentencia label="return" />
+<sentencia label="super" />
+<sentencia label="switch" />
+<sentencia label="this" />
+<sentencia label="throw" />
+<sentencia label="true" />
+<sentencia label="try" />
+<sentencia label="typeof" />
+<sentencia label="var" />
+<sentencia label="while" />
+<sentencia label="with" />
+</sentencias>

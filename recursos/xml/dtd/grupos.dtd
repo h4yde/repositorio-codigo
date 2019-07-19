@@ -1,0 +1,5 @@
+<!ELEMENT grupos (grupo*)>
+	<!ELEMENT grupo (nombre, asignatura)>
+		<!ELEMENT nombre (#PCDATA)>
+		<!ELEMENT asignatura (#PCDATA)>
+

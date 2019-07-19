@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE codigos SYSTEM "dtd/codigos.dtd">
+<codigos>
+	
+	
+
+<codigo><nombre>holaMundo</nombre><lenguaje>c</lenguaje><brush>shBrushCpp</brush><ncol>10</ncol><nfil>10</nfil><lineas>6</lineas></codigo></codigos>

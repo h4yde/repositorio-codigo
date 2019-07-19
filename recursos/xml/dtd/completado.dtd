@@ -1,0 +1,2 @@
+<!ELEMENT sentencias (sentencia*)>
+	<!ELEMENT sentencia (#PCDATA)>

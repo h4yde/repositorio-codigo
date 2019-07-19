@@ -1,0 +1,7 @@
+<!ELEMENT login (usuario*)>
+	<!ELEMENT usuario (nombre, contra, correo, admin?)>
+		<!ELEMENT nombre (#PCDATA)>
+		<!ELEMENT contra (#PCDATA)>
+		<!ELEMENT correo (#PCDATA)>
+		<!ELEMENT admin (#PCDATA)>
+

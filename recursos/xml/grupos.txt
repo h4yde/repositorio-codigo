@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE login SYSTEM  "dtd/grupos.dtd">
+<grupos>
+	<grupo>
+		<nombre>1CM3</nombre>
+		<asignatura>asignatura</asignatura>
+	</grupo>
+</login>

@@ -1,0 +1,9 @@
+<!ELEMENT codigos (codigo*)>
+	<!ELEMENT usuario (nombre, lenguaje, brush, ncol, nfil, lineas)>
+		<!ELEMENT nombre (#PCDATA)>
+		<!ELEMENT lenguaje (#PCDATA)>
+		<!ELEMENT brush (#PCDATA)>
+		<!ELEMENT ncol (#PCDATA)>
+		<!ELEMENT nfil (#PCDATA)>
+		<!ELEMENT lineas (#PCDATA)>
+

@@ -1,0 +1,7 @@
+<!ELEMENT comentarios (coment*)>
+	<!ELEMENT coment (nombre, calificacion, desta, texto)>
+		<!ELEMENT nombre (#PCDATA)>
+		<!ELEMENT calificacion (#PCDATA)>
+		<!ELEMENT desta (#PCDATA)>
+		<!ELEMENT texto (#PCDATA)>
+

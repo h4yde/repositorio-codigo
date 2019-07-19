@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE login SYSTEM "dtd/login.dtd">
+<login>
+	<usuario>
+		<nombre>balumno1</nombre>
+		<contra>123456</contra>
+		<correo>balumno@ejemplo.com</correo>
+	<grupo>2CV10POO</grupo></usuario>
+	
+	<usuario>
+		<nombre>alumno1</nombre>
+		<contra>123456</contra>
+		<correo>alumno@ejemplo.com</correo>
+		<grupo/>
+	</usuario>
+	
+	<usuario>
+		<nombre>álumno1</nombre>
+		<contra>123456</contra>
+		<correo>álumno@ejemplo.com</correo>
+		<grupo/>
+	</usuario>
+	
+	<usuario>
+		<nombre>alumno2</nombre>
+		<contra>123456</contra>
+		<correo>alumno2@ejemplo.com</correo>
+	<grupo>2CV10POO</grupo></usuario>
+	
+	<usuario>
+		<nombre>Profesor</nombre>
+		<contra>123456</contra>
+		<correo>prof@ejemplo.com</correo>
+		<admin>si</admin>
+	</usuario>
+<usuario><nombre>alumno3</nombre><contra>123456</contra><correo/><grupo/></usuario><usuario><nombre>Nombre1</nombre><contra>261008</contra><correo/></usuario><usuario><nombre>HaydeBM</nombre><contra>261008</contra><correo/><grupo>1CM3Algoritmia y PE</grupo></usuario><usuario><nombre>prueba1</nombre><contra>261008</contra><correo/></usuario><usuario><nombre>lunes</nombre><contra>261008</contra><correo/><grupo/></usuario><usuario><nombre>Victoria</nombre><contra>123456</contra><correo/></usuario><usuario><nombre>Hayde</nombre><contra>123456</contra><correo/></usuario></login>

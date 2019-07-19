@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE login SYSTEM "dtd/grupos.dtd">
+<grupos>
+	<grupo>
+		<nombre>1CM3</nombre>
+		<asignatura>Algoritmia y PE</asignatura>
+	</grupo>
+<grupo><nombre>2CV10</nombre><asignatura>POO</asignatura></grupo></grupos>

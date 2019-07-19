@@ -1,0 +1,27 @@
+/* # cambiar estilo a error
+============================================*/
+.controls > .error {
+    color: #b94a48;
+    display: inline-block;
+    *display: inline;
+    padding-left: 5px;
+    vertical-align: middle;
+    *zoom: 1;
+}
+
+/* # cambiar estilo a pagina
+============================================*/
+#formu{ 
+	width: 45%;
+	margin:0 auto;
+	padding:5px;
+	text-align:left;
+}
+
+#cajita{
+	margin: 10px;
+}
+
+#subseccion{
+	margin-left: 25px;
+}
